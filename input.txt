@@ -1,0 +1,9 @@
+ClassName1
+private int name11
+private String name12
+private double name13
+
+	ClassName2
+	-private int name21
+	private String name22
+	-private double name23
